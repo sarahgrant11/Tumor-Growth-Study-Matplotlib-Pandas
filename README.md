@@ -1,4 +1,4 @@
-# Visualizing Mouse Tumor Growth, Drug Regimen Analysis Using Python Matplotlib
+# Examining Tumor Growth, Drug Regimen Study Using Python, Pandas, Matplotlib
 
 ![Laboratory](Images/Laboratory.jpg)
 
